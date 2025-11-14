@@ -55,7 +55,7 @@
 
 * [🎓 Carátula](https://github.com/domenicanarvaez/Teoria-de-la-programacion-Portafolio-Digital/blob/main/PortafolioDigital.md#-car%C3%A1tula)
 * [📚 Contenidos del Portafolio](https://github.com/domenicanarvaez/Teoria-de-la-programacion-Portafolio-Digital/blob/main/PortafolioDigital.md#-contenidos-del-portafolio)
-    * [📌 Unidad 1: Fundamentos de la Programación y Algoritmos (Ver Contenido Completo)](Unidad1.md)
+    * [📌 Unidad 1: Lógica Matemática](Unidad1.md)
       * [💡 Conceptos Básicos: Proposiciones y Operadores](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/main/Unidad1.md#-conceptos-b%C3%A1sicos-proposiciones-y-operadores-)
       * [📝 Descripción de Actividades](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/main/Unidad1.md#-descripci%C3%B3n-de-actividades-)
           * [👩‍🏫 Actividades de Aprendizaje en Contacto con el Docente (ACD)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/main/Unidad1.md#%E2%80%8D-actividades-de-aprendizaje-en-contacto-con-el-docente-acd-%E2%80%8D)
