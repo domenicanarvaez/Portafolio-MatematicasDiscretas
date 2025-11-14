@@ -30,11 +30,10 @@ Los operadores lógicos, también llamados conectores lógicos, nos permiten con
 Las tablas de verdad son herramientas gráficas que nos permiten determinar el valor de verdad de una proposición compuesta para todas las posibles combinaciones de valores de verdad de sus proposiciones simples.
 
 * **Aplicación:** Son fundamentales para el análisis guiado de implicaciones, equivalencias y razonamiento deductivo.
-* **Metodología:** Se desarrollan ejercicios y se realizan evaluaciones sumativas (como la del 10 al 13 de Noviembre) para comprender y aplicar su uso en la resolución de problemas.
 
 ---
 
-## 📝 Descripción de Actividades y Tareas 📝
+## 📝 Descripción de Actividades 📝
 
 Aquí se detallan las actividades que hemos realizado en la unidad de Lógica Matemática, que forman parte de tu aprendizaje y comprensión de los temas.
 
