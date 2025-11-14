@@ -101,6 +101,6 @@ A continuación, se presenta el desglose de las unidades que componen este porta
 ### 🤖 Declaración de Uso de la IA Generativa
 
 > [!NOTE]
-> Se utilizó asistencia de herramientas de IA Generativa (Gemini de Google) para la maquetación y generación de la estructura Markdown de este portafolio. Todo el contenido académico, reflexiones, tareas, códigos y análisis de dificultades son de mi autoria y reflejan mi proceso de aprendizaje personal en la asignatura.
+> Se utilizó asistencia de herramientas de IA Generativa (Gemini de Google) para mejorar la presentación y la estructura Markdown de este portafolio. Todo el contenido académico, reflexiones, tareas, códigos y análisis de dificultades son de mi autoria y reflejan mi proceso de aprendizaje personal en la asignatura.
 
 ---
