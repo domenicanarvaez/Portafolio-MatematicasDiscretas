@@ -39,26 +39,38 @@ Aquí se detallan las actividades que hemos realizado en la unidad de Lógica Ma
 
 ### 👩‍🏫 Actividades de Aprendizaje en Contacto con el Docente (ACD) 👩‍🏫
 
-* **Presentación del sílabo, encuadre, acuerdos y compromisos (16 de octubre de 2023):** Una sesión introductoria para establecer las bases del curso.
-* **Desarrollo de la prueba diagnóstica (20 al 24 de octubre de 2023):** Evaluación inicial para conocer nuestros conocimientos previos.
-* **Explicación interactiva de conceptos básicos de lógica proposicional, conectores y tablas de verdad mediante aula invertida:** Sesiones dinámicas donde exploramos los fundamentos de la lógica.
+Actividades enfocadas en la auto-investigación, práctica y profundización de los temas.
+
+#### 📦 Tarea 1: Logica proposicional, conectores y tablas de verdad
+* **🗒️ Descripción:** 
+* **🔗 Enlace:** [Ver Tarea 1 ACD (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/0f6d0b2492fabea8ae67424e445769fb354ab31a/ACD1_Logica%20proposicional%2C%20conectores%20y%20tablas%20de%20verdad.pdf)
+
+#### 🔧 Tarea 2: Leyes de las proposiciones y reglas de inferencia
+* **🗒️ Descripción:** 
+* **🔗 Enlace:** [Ver Tarea 2 ACD (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/0f6d0b2492fabea8ae67424e445769fb354ab31a/ACD2_Leyes%20de%20las%20proposiciones%20y%20reglas%20de%20inferencia.pdf)
 
 ### 🧪 Actividades de Aprendizaje Práctico Experimental (APE) 🧪
 
-* **Resolución de problemas de inferencia y deducción lógica en equipos colaborativos:** Trabajos en grupo para aplicar la lógica en la solución de problemas concretos.
-* **Análisis guiado de implicaciones, equivalencias y razonamiento deductivo usando ejemplos computacionales:** Aplicación de herramientas para entender la lógica en un contexto más moderno.
+Actividades enfocadas en la auto-investigación, práctica y profundización de los temas.
+
+#### 📦 Tarea 1: Logica proposicional, conectores y tablas de verdad
+* **🗒️ Descripción:** 
+* **🔗 Enlace:** [Ver Tarea 1 APE (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/09d0f844bb739640c275819cdf2ef9ef1832373d/APE1_Resolucion%20de%20ejrcicios.pdf)
 
 ### 🧠 Actividades de Aprendizaje Autónomo (AA) 🧠
 
-* **Lectura crítica de textos sobre lógica matemática y práctica autónoma de ejercicios en plataforma EVA-UNL:** Estudio individual y práctica para consolidar los conocimientos.
-* **Elaboración de un portafolio digital con ejemplos de tablas de verdad y simplificaciones:** Como esta tarea, donde se compilan y organizan los aprendizajes y ejercicios.
+Actividades enfocadas en la auto-investigación, práctica y profundización de los temas.
+
+#### 📦 Tarea 1: Logica proposicional, conectores y tablas de verdad
+* **🗒️ Descripción:** 
+* **🔗 Enlace:** [Ver Tarea 1 AA (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/09d0f844bb739640c275819cdf2ef9ef1832373d/AA1_Ejercicios%20de%20Leyes%20de%20las%20proposiciones%20y%20reglas%20de%20inferencia.pdf)
 
 ---
 
 ## 🌟 Conclusión Personal 🌟
 
-A lo largo de esta unidad de Lógica Matemática, he comprendido la importancia del razonamiento lógico como pilar fundamental en la resolución de problemas, especialmente aquellos ligados a la ingeniería. La capacidad de analizar proposiciones, construir tablas de verdad y aplicar operadores lógicos me ha proporcionado herramientas esenciales para estructurar el pensamiento de manera coherente y rigurosa.
+A lo largo de esta unidad de Lógica Matemática, he comprendido la importancia del razonamiento lógico como pilar fundamental en la resolución de problemas, especialmente aquellos ligados a la computación. La capacidad de analizar proposiciones, construir tablas de verdad y aplicar operadores lógicos me ha proporcionado herramientas esenciales para estructurar el pensamiento de manera coherente y rigurosa.
 
-Las actividades colaborativas y autónomas han reforzado mi comprensión, permitiéndome no solo aprender los conceptos teóricos, sino también aplicarlos en situaciones prácticas. Este portafolio no solo documenta mi progreso, sino que también sirve como un testimonio de mi compromiso con los principios de solidaridad, transparencia, responsabilidad y honestidad en el ámbito académico y profesional. La lógica es, sin duda, un lenguaje universal que potencia nuestra capacidad de innovar y resolver desafíos complejos.
+Las actividades han reforzado mi comprensión, permitiéndome no solo aprender los conceptos teóricos, sino también aplicarlos en situaciones prácticas. La lógica es, sin duda, un lenguaje universal que potencia nuestra capacidad de innovar y resolver desafíos complejos.
 
 ---
