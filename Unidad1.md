@@ -55,6 +55,8 @@ Esta sección se centró en la **investigación y exposición** de los fundament
 * **🗒️ Descripción:** Investigación y presentación sobre las leyes que rigen las proposiciones y las reglas de inferencia que permiten construir argumentos lógicos válidos.
 * **🔗 Enlace:** [Ver Tarea 2 ACD (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/main/Actividades_Unidad1/ACD/ACD2_Leyes%20de%20las%20proposiciones%20y%20reglas%20de%20inferencia.pdf)
 
+---
+
 ### 🧪 Actividades de Aprendizaje Práctico Experimental (APE) 🧪
 
 En esta fase, **aplicamos la teoría inicial** a problemas concretos. Las actividades se enfocaron en la resolución de ejercicios prácticos para dominar la construcción de tablas de verdad y el uso de conectores lógicos, sirviendo como el puente entre la teoría y la práctica.
@@ -67,6 +69,8 @@ En esta fase, **aplicamos la teoría inicial** a problemas concretos. Las activi
 #### 📦 Tarea 1: Resolución de ejercicios sobre lógica proposicional, conectores y tablas de verdad
 * **🗒️ Descripción:** Resolución de un conjunto de ejercicios prácticos para aplicar los conceptos de lógica proposicional, el manejo de conectores y la creación de tablas de verdad.
 * **🔗 Enlace:** [Ver Tarea 1 APE (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/main/Actividades_Unidad1/APE/APE1_Resolucion%20de%20ejrcicios.pdf)
+
+---
 
 ### 🧠 Actividades de Aprendizaje Autónomo (AA) 🧠
 
