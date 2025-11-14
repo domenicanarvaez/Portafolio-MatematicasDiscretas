@@ -10,7 +10,7 @@
 # 💻 Portafolio Digital de Aprendizaje  
 ### *Matemáticas Discretas*
 
-*Una compilación de los avances, prácticas y reflexiones sobre los fundamentos del desarrollo de software.*
+*Una compilación de los avances, prácticas y reflexiones sobre la Lógica Matemática, el pilar fundamental del desarrollo de software*
 
 ---
 
