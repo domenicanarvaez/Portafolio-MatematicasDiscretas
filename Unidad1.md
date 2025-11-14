@@ -43,11 +43,11 @@ Actividades enfocadas en la auto-investigación, práctica y profundización de 
 
 #### 📦 Tarea 1: Logica proposicional, conectores y tablas de verdad
 * **🗒️ Descripción:** 
-* **🔗 Enlace:** [Ver Tarea 1 ACD (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/0f6d0b2492fabea8ae67424e445769fb354ab31a/ACD1_Logica%20proposicional%2C%20conectores%20y%20tablas%20de%20verdad.pdf)
+* **🔗 Enlace:** [Ver Tarea 1 ACD (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/main/Actividades_Unidad1/ACD/ACD1_Logica%20proposicional%2C%20conectores%20y%20tablas%20de%20verdad.pdf)
 
 #### 🔧 Tarea 2: Leyes de las proposiciones y reglas de inferencia
 * **🗒️ Descripción:** 
-* **🔗 Enlace:** [Ver Tarea 2 ACD (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/0f6d0b2492fabea8ae67424e445769fb354ab31a/ACD2_Leyes%20de%20las%20proposiciones%20y%20reglas%20de%20inferencia.pdf)
+* **🔗 Enlace:** [Ver Tarea 2 ACD (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/main/Actividades_Unidad1/ACD/ACD2_Leyes%20de%20las%20proposiciones%20y%20reglas%20de%20inferencia.pdf)
 
 ### 🧪 Actividades de Aprendizaje Práctico Experimental (APE) 🧪
 
@@ -55,7 +55,7 @@ Actividades enfocadas en la auto-investigación, práctica y profundización de 
 
 #### 📦 Tarea 1: Logica proposicional, conectores y tablas de verdad
 * **🗒️ Descripción:** 
-* **🔗 Enlace:** [Ver Tarea 1 APE (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/09d0f844bb739640c275819cdf2ef9ef1832373d/APE1_Resolucion%20de%20ejrcicios.pdf)
+* **🔗 Enlace:** [Ver Tarea 1 APE (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/main/Actividades_Unidad1/APE/APE1_Resolucion%20de%20ejrcicios.pdf)
 
 ### 🧠 Actividades de Aprendizaje Autónomo (AA) 🧠
 
@@ -63,7 +63,7 @@ Actividades enfocadas en la auto-investigación, práctica y profundización de 
 
 #### 📦 Tarea 1: Logica proposicional, conectores y tablas de verdad
 * **🗒️ Descripción:** 
-* **🔗 Enlace:** [Ver Tarea 1 AA (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/09d0f844bb739640c275819cdf2ef9ef1832373d/AA1_Ejercicios%20de%20Leyes%20de%20las%20proposiciones%20y%20reglas%20de%20inferencia.pdf)
+* **🔗 Enlace:** [Ver Tarea 1 AA (PDF)](https://github.com/domenicanarvaez/Portafolio-MatematicasDiscretas/blob/main/Actividades_Unidad1/AA/AA1_Ejercicios%20de%20Leyes%20de%20las%20proposiciones%20y%20reglas%20de%20inferencia.pdf)
 
 ---
 
